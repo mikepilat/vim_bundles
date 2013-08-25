@@ -1,3 +1,6 @@
 [submodule "nerdtree"]
 	path = nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule "fugitive"]
+	path = fugitive
+	url = https://github.com/tpope/vim-fugitive.git

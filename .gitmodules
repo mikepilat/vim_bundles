@@ -10,3 +10,6 @@
 [submodule "surround"]
 	path = surround
 	url = https://github.com/tpope/vim-surround
+[submodule "ragtag"]
+	path = ragtag
+	url = https://github.com/tpope/vim-ragtag.git

@@ -19,3 +19,9 @@
 [submodule "rainbow_parentheses"]
 	path = rainbow_parentheses
 	url = https://github.com/kien/rainbow_parentheses.vim.git
+[submodule "vimproc"]
+	path = vimproc
+	url = https://github.com/shougo/vimproc.vim
+[submodule "unite"]
+	path = unite
+	url = https://github.com/shougo/unite.vim

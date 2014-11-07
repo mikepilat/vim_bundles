@@ -25,3 +25,6 @@
 [submodule "unite"]
 	path = unite
 	url = https://github.com/shougo/unite.vim
+[submodule "vim-elixir"]
+	path = vim-elixir
+	url = https://github.com/elixir-lang/vim-elixir.git
